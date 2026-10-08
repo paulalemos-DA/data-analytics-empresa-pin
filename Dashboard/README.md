@@ -124,10 +124,10 @@ Es decir, los proveedores que cuentan con un catálogo más amplio tienden a pre
 ## 📷 Visualizaciones del Dashboard
 
 ### Resumen Ejecutivo
-![Resumen Ejecutivo](Dashboard/General.png)
+![Resumen Ejecutivo](General.png)
 
 ### Análisis de Sucursales
-![Análisis de Sucursales](Dashboard/Analisis_de_sucursal.png)
+![Análisis de Sucursales](Analisis_de_sucursal.png)
 
 ### Análisis de Productos
 ![Análisis de Productos](Analisis_de_producto.png)
